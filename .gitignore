@@ -1,0 +1,5 @@
+/NamecoRobo.xcodeproj/
+/openFrameworks-Info.plist
+/Project.xcconfig
+/bin/*
+!/bin/data/
